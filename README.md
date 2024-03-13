@@ -32,8 +32,3 @@ O que são requisitos funcionais e requisitos não-funcionais de um projeto?
 ### Questão 8
 Qual o papel do Product Owner, segundo a metodologia Scrum?
 
-### Questão 9
-
-### Questão 10
-
-
