@@ -15,6 +15,8 @@ Basta criar uma nova branch com as suas respostas com o padrão `seu-nome-alinha
 ### Questão 1
 O que você entende como Design Thinking?
 
+Design Thinking é uma abordagem...
+
 ### Questão 2
 Cite e explique duas ferramentas utilizadas no processo de ideação, com base no Design Thinking.
 
