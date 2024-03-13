@@ -6,6 +6,10 @@
 * Realizar ajuste fino nas etapas e nos entregáveis do projeto.
 * Alinhar expectativas do projeto entre alunos e orientadores.
 
+## O que deve ser entregue?
+
+Basta criar uma nova branch com as suas respostas com o padrão `seu-nome-alinhamento`. Edite o arquivo README.md a partir da sua branch e faça o commit. Este procedimento pode ser feito diretamente no GitHub. Não é necessário abrir Pull Request.
+
 ## Questões (RESPONDER NO README - CRIE A SUA BRANCH):
 
 ### Questão 1
